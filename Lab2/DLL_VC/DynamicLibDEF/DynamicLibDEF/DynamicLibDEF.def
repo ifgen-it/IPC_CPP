@@ -1,0 +1,14 @@
+LIBRARY DynamicLibDEF
+
+EXPORTS
+
+Add=fAdd @1
+
+Subtract=fSubtract @2
+
+Multiply=fMultiply @3
+
+Divide=fDivide @4
+
+
+
